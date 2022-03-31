@@ -1,2 +1,1 @@
-This is for Jenkins implementation
-It's Chill day.
+This is for Jenkins implementation demo.
